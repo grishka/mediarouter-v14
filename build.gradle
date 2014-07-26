@@ -1,0 +1,51 @@
+apply plugin: 'android-library'
+
+archivesBaseName = 'mediarouter-v7'
+
+dependencies {
+
+}
+
+// some of the source requires compiling against a newer API.
+// Right now, use normal Java source sets to compile those into a jar and 
+// package it as a local dependencies inside the library aar.
+
+sourceSets {
+    jellybean.java.srcDir 'jellybean'
+    jellybeanmr1.java.srcDir 'jellybean-mr1'
+    jellybeanmr2.java.srcDir 'jellybean-mr2'
+}
+
+
+dependencies {
+    /*jellybeanCompile getAndroidPrebuilt('16')
+
+    jellybeanmr1Compile getAndroidPrebuilt('17')
+    jellybeanmr1Compile sourceSets.jellybean.output
+
+    jellybeanmr2Compile getAndroidPrebuilt('current')
+    jellybeanmr2Compile sourceSets.jellybean.output
+    jellybeanmr2Compile sourceSets.jellybeanmr1.output
+
+    compile files(jar.archivePath)*/
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    sourceSets {
+        main.manifest.srcFile 'AndroidManifest.xml'
+        //main.java.srcDir 'src'
+        main.res.srcDir 'res'
+        main.assets.srcDir 'assets'
+        main.resources.srcDir 'src'
+        instrumentTest.java.srcDir 'tests/src'
+        main.java.srcDirs = ['src', 'jellybean', 'jellybean-mr1', 'jellybean-mr2']
+
+        // this moves src/instrumentTest to tests so all folders follow:
+        // tests/java, tests/res, tests/assets, ...
+        // This is a *reset* so it replaces the default paths
+        instrumentTest.setRoot('tests')
+    }
+}

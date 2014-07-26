@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/src/main/assets" />
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/src/debug/assets" />
+    </dataSet>
+
+</merger>

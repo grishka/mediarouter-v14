@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/src/main/res" />
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/res" >
+            <file
+                name="mr_ic_media_route_connecting_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_connecting_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_connecting_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_connecting_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_audio_vol.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_audio_vol.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_audio_vol.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_audio_vol.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_media_route_chooser_dialog"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout/mr_media_route_chooser_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mr_media_route_controller_dialog"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout/mr_media_route_controller_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mr_media_route_list_item"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout/mr_media_route_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mr_media_route_controller_dialog"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout-v11/mr_media_route_controller_dialog.xml"
+                qualifiers="v11"
+                type="layout" />
+            <file
+                name="mr_media_route_list_item"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout-v17/mr_media_route_list_item.xml"
+                qualifiers="v17"
+                type="layout" />
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/attrs.xml"
+                qualifiers="" >
+                <attr
+                    name="mediaRouteOnDrawable"
+                    format="reference" />
+                <attr
+                    name="mediaRouteButtonStyle"
+                    format="reference" />
+                <attr
+                    name="mediaRouteOffDrawable"
+                    format="reference" />
+
+                <declare-styleable name="MediaRouteButton" >
+
+                    <!--
+             This drawable is a state list where the "checked" state
+             indicates active media routing.  Checkable indicates connecting
+             and non-checked / non-checkable indicates
+             that media is playing to the local device only.
+                    -->
+                    <attr
+                        name="externalRouteEnabledDrawable"
+                        format="reference" />
+                    <attr name="android:minWidth" />
+                    <attr name="android:minHeight" />
+                </declare-styleable>
+
+                <attr
+                    name="mediaRouteConnectingDrawable"
+                    format="reference" />
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/strings.xml"
+                qualifiers="" >
+                <string name="mr_system_route_name" >System
+                </string>
+                <string name="mr_media_route_chooser_title" >Connect to device
+                </string>
+                <string name="mr_media_route_controller_disconnect" >Disconnect
+                </string>
+                <string name="mr_user_route_category_name" >Devices
+                </string>
+                <string name="mr_media_route_chooser_searching" >Searching for devices\u2026
+                </string>
+                <string name="mr_media_route_button_content_description" >Media output
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Widget.MediaRouter.MediaRouteButton"
+                    parent="android:Widget.Holo.ActionButton" >
+                    <item name="android:minWidth">
+56dp
+                    </item>
+                    <item name="android:minHeight">
+48dp
+                    </item>
+                    <item name="android:padding">
+0dp
+                    </item>
+                    <item name="android:focusable">
+true
+                    </item>
+                    <item name="android:contentDescription">
+@string/mr_media_route_button_content_description
+                    </item>
+                    <item name="externalRouteEnabledDrawable">
+@drawable/mr_ic_media_route_holo_dark
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.MediaRouter.Light.MediaRouteButton"
+                    parent="android:Widget.Holo.Light.ActionButton" >
+                    <item name="android:minWidth">
+56dp
+                    </item>
+                    <item name="android:minHeight">
+48dp
+                    </item>
+                    <item name="android:padding">
+0dp
+                    </item>
+                    <item name="android:focusable">
+true
+                    </item>
+                    <item name="android:contentDescription">
+@string/mr_media_route_button_content_description
+                    </item>
+                    <item name="externalRouteEnabledDrawable">
+@drawable/mr_ic_media_route_holo_light
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.MediaRouter.Light"
+                    parent="" >
+                    <item name="mediaRouteButtonStyle">
+@style/Widget.MediaRouter.Light.MediaRouteButton
+                    </item>
+                    <item name="mediaRouteOffDrawable">
+@drawable/mr_ic_media_route_off_holo_light
+                    </item>
+                    <item name="mediaRouteConnectingDrawable">
+@drawable/mr_ic_media_route_connecting_holo_light
+                    </item>
+                    <item name="mediaRouteOnDrawable">
+@drawable/mr_ic_media_route_on_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.MediaRouter"
+                    parent="" >
+                    <item name="mediaRouteButtonStyle">
+@style/Widget.MediaRouter.MediaRouteButton
+                    </item>
+                    <item name="mediaRouteOffDrawable">
+@drawable/mr_ic_media_route_off_holo_dark
+                    </item>
+                    <item name="mediaRouteConnectingDrawable">
+@drawable/mr_ic_media_route_connecting_holo_dark
+                    </item>
+                    <item name="mediaRouteOnDrawable">
+@drawable/mr_ic_media_route_on_holo_dark
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/build/generated/res/rs/release" />
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/src/release/res" />
+    </dataSet>
+
+</merger>

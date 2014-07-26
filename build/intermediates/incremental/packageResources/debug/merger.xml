@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/src/main/res" />
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/res" >
+            <file
+                name="mr_ic_media_route_connecting_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_connecting_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_connecting_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_connecting_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable/mr_ic_media_route_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_audio_vol.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-hdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_audio_vol.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-mdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_audio_vol.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xhdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_audio_vol"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_audio_vol.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_disabled_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_disabled_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_disabled_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_off_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_off_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_off_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_0_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_0_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_0_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_1_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_1_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_1_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_2_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_2_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_2_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_dark"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_holo_dark.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_ic_media_route_on_holo_light"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/drawable-xxhdpi/mr_ic_media_route_on_holo_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mr_media_route_chooser_dialog"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout/mr_media_route_chooser_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mr_media_route_controller_dialog"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout/mr_media_route_controller_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mr_media_route_list_item"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout/mr_media_route_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mr_media_route_controller_dialog"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout-v11/mr_media_route_controller_dialog.xml"
+                qualifiers="v11"
+                type="layout" />
+            <file
+                name="mr_media_route_list_item"
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/layout-v17/mr_media_route_list_item.xml"
+                qualifiers="v17"
+                type="layout" />
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/attrs.xml"
+                qualifiers="" >
+                <attr
+                    name="mediaRouteOnDrawable"
+                    format="reference" />
+                <attr
+                    name="mediaRouteButtonStyle"
+                    format="reference" />
+                <attr
+                    name="mediaRouteOffDrawable"
+                    format="reference" />
+
+                <declare-styleable name="MediaRouteButton" >
+
+                    <!--
+             This drawable is a state list where the "checked" state
+             indicates active media routing.  Checkable indicates connecting
+             and non-checked / non-checkable indicates
+             that media is playing to the local device only.
+                    -->
+                    <attr
+                        name="externalRouteEnabledDrawable"
+                        format="reference" />
+                    <attr name="android:minWidth" />
+                    <attr name="android:minHeight" />
+                </declare-styleable>
+
+                <attr
+                    name="mediaRouteConnectingDrawable"
+                    format="reference" />
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/strings.xml"
+                qualifiers="" >
+                <string name="mr_system_route_name" >System
+                </string>
+                <string name="mr_media_route_chooser_title" >Connect to device
+                </string>
+                <string name="mr_media_route_controller_disconnect" >Disconnect
+                </string>
+                <string name="mr_user_route_category_name" >Devices
+                </string>
+                <string name="mr_media_route_chooser_searching" >Searching for devices\u2026
+                </string>
+                <string name="mr_media_route_button_content_description" >Media output
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Widget.MediaRouter.MediaRouteButton"
+                    parent="android:Widget.Holo.ActionButton" >
+                    <item name="android:minWidth">
+56dp
+                    </item>
+                    <item name="android:minHeight">
+48dp
+                    </item>
+                    <item name="android:padding">
+0dp
+                    </item>
+                    <item name="android:focusable">
+true
+                    </item>
+                    <item name="android:contentDescription">
+@string/mr_media_route_button_content_description
+                    </item>
+                    <item name="externalRouteEnabledDrawable">
+@drawable/mr_ic_media_route_holo_dark
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.MediaRouter.Light.MediaRouteButton"
+                    parent="android:Widget.Holo.Light.ActionButton" >
+                    <item name="android:minWidth">
+56dp
+                    </item>
+                    <item name="android:minHeight">
+48dp
+                    </item>
+                    <item name="android:padding">
+0dp
+                    </item>
+                    <item name="android:focusable">
+true
+                    </item>
+                    <item name="android:contentDescription">
+@string/mr_media_route_button_content_description
+                    </item>
+                    <item name="externalRouteEnabledDrawable">
+@drawable/mr_ic_media_route_holo_light
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values/themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.MediaRouter.Light"
+                    parent="" >
+                    <item name="mediaRouteButtonStyle">
+@style/Widget.MediaRouter.Light.MediaRouteButton
+                    </item>
+                    <item name="mediaRouteOffDrawable">
+@drawable/mr_ic_media_route_off_holo_light
+                    </item>
+                    <item name="mediaRouteConnectingDrawable">
+@drawable/mr_ic_media_route_connecting_holo_light
+                    </item>
+                    <item name="mediaRouteOnDrawable">
+@drawable/mr_ic_media_route_on_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.MediaRouter"
+                    parent="" >
+                    <item name="mediaRouteButtonStyle">
+@style/Widget.MediaRouter.MediaRouteButton
+                    </item>
+                    <item name="mediaRouteOffDrawable">
+@drawable/mr_ic_media_route_off_holo_dark
+                    </item>
+                    <item name="mediaRouteConnectingDrawable">
+@drawable/mr_ic_media_route_connecting_holo_dark
+                    </item>
+                    <item name="mediaRouteOnDrawable">
+@drawable/mr_ic_media_route_on_holo_dark
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-af/strings.xml"
+                qualifiers="af" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Koppel aan toestel"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Toestelle"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Media-uitvoer"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Ontkoppel"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Stelsel"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Soek tans vir toestelle…"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-am/strings.xml"
+                qualifiers="am" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"ከመሳሪያ ጋር ያገናኙ"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"መሳሪያዎችን በመፈለግ ላይ…"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"የሚዲያ ውፅዓት"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"ግንኙነት አቋርጥ"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"ስርዓት"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"መሣሪያዎች"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ar/strings.xml"
+                qualifiers="ar" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"المنفذ الإعلامي"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"جارٍ البحث عن الأجهزة…"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"الاتصال بجهاز"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"الأجهزة"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"النظام"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"قطع الاتصال"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-bg/strings.xml"
+                qualifiers="bg" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Търсят се устройства…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Устройства"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Система"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Изходяща мултимедия"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Свързване с устройство"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Прекратяване на връзката"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ca/strings.xml"
+                qualifiers="ca" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Connecta al dispositiu"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"S\'estan cercant dispositius…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Desconnecta"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Sortida de contingut multimèdia"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispositius"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-cs/strings.xml"
+                qualifiers="cs" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Systém"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Připojení k zařízení"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Odpojit"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Výstup médií"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Zařízení"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Vyhledávání zařízení…"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-da/strings.xml"
+                qualifiers="da" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medieudgang"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Enheder"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Afbryd forbindelsen"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Søger efter enheder..."
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Tilslut til enheden"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-de/strings.xml"
+                qualifiers="de" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Geräte werden gesucht…"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medienausgabe"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Verbindung aufheben"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Mit Gerät verbinden"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Geräte"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-el/strings.xml"
+                qualifiers="el" >
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Συσκευές"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Σύνδεση με τη συσκευή"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Έξοδος μέσων"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Αναζήτηση συσκευών…"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Σύστημα"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Αποσύνδεση"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-en-rGB/strings.xml"
+                qualifiers="en-rGB" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Connect to device"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Devices"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Searching for devices…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Disconnect"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Media output"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-en-rIN/strings.xml"
+                qualifiers="en-rIN" >
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Devices"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Connect to device"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Disconnect"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Searching for devices…"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Media output"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-es/strings.xml"
+                qualifiers="es" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Conectar a dispositivo"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Buscando dispositivos…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispositivos"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Salida multimedia"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Desconectar"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-es-rUS/strings.xml"
+                qualifiers="es-rUS" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Desconectar"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispositivos"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Conectar al dispositivo"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Buscando dispositivos…"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Salida multimedia"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-et-rEE/strings.xml"
+                qualifiers="et-rEE" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Katkesta ühendus"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Seadmed"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Meediaväljund"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Seadmete otsimine …"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Seadmega ühendamine"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Süsteem"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-fa/strings.xml"
+                qualifiers="fa" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"خروجی رسانه"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"برقراری ارتباط با دستگاه"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"سیستم"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"دستگاه‌ها"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"در حال جستجو برای دستگاه‌ها..."
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"قطع ارتباط"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-fi/strings.xml"
+                qualifiers="fi" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Median äänentoisto"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Yhdistä laitteeseen"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Järjestelmä"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Laitteet"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Katkaise yhteys"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Etsitään laitteita…"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-fr/strings.xml"
+                qualifiers="fr" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Déconnecter"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Système"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Appareils"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Recherche d\'appareils en cours…"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Connecter à l\'appareil"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Sortie multimédia"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-fr-rCA/strings.xml"
+                qualifiers="fr-rCA" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Recherche d\'appareils en cours…"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Connexion au périphérique"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Sortie multimédia"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Système"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Appareils"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Déconnecter"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-hi/strings.xml"
+                qualifiers="hi" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"उपकरण से कनेक्ट करें"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"सिस्टम"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"उपकरणों की खोज हो रही है…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"उपकरण"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"डिस्कनेक्ट करें"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"मीडिया आउटपुट"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-hr/strings.xml"
+                qualifiers="hr" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medijski izlaz"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Uređaji"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Traženje uređaja…"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sustav"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Prekini vezu"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Povezivanje s uređajem"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-hu/strings.xml"
+                qualifiers="hu" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Rendszer"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Eszközök"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Médiakimenet"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Leválasztás"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Csatlakozás adott eszközhöz"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Eszközkeresés…"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-hy-rAM/strings.xml"
+                qualifiers="hy-rAM" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Որոնվում են սարքեր..."
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Անջատել"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Միանալ սարքին"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Սարքեր"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Համակարգ"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Մեդիա արտածում"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-in/strings.xml"
+                qualifiers="in" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistem"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Sambungkan ke perangkat"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Putuskan sambungan"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Keluaran media"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Perangkat"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Menelusuri perangkat…"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-it/strings.xml"
+                qualifiers="it" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Uscita media"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispositivi"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Ricerca di dispositivi…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Disconnetti"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Connetti al dispositivo"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-iw/strings.xml"
+                qualifiers="iw" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"פלט מדיה"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"מחפש מכשירים…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"מכשירים"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"מערכת"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"התנתק"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"התחבר למכשיר"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ja/strings.xml"
+                qualifiers="ja" >
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"端末"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"メディア出力"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"端末に接続"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"端末を検索しています…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"接続を解除"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"システム"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ka-rGE/strings.xml"
+                qualifiers="ka-rGE" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"სისტემა"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"კავშირის გაწყვეტა"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"მოწყობილობების ძიება…"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"მედია გამოსასვლელი"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"მოწყობილობები"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"მოწყობილობასთან დაკავშირება"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-km-rKH/strings.xml"
+                qualifiers="km-rKH" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"លទ្ធផល​មេឌៀ"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"កំពុង​ស្វែងរក​ឧបករណ៍..."
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"ឧបករណ៍"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"ផ្ដាច់"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"ភ្ជាប់​ឧបករណ៍"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"ប្រព័ន្ធ"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ko/strings.xml"
+                qualifiers="ko" >
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"기기"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"연결 해제"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"시스템"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"기기에 연결"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"기기 검색 중…"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"미디어 출력"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-lo-rLA/strings.xml"
+                qualifiers="lo-rLA" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"ເຊື່ອມຕໍ່ຫາອຸປະກອນ"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"ລະບົບ"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"ກຳລັງຊອກຫາອຸປະກອນ..."
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"ມີເດຍເອົ້າພຸດ"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"ອຸປະກອນ"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"ຕັດການເຊື່ອມຕໍ່"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-lt/strings.xml"
+                qualifiers="lt" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Atjungti"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medijos išvestis"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Įrenginiai"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Ieškoma įrenginių…"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Prijungimas prie įrenginio"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-lv/strings.xml"
+                qualifiers="lv" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Savienojuma izveide ar ierīci"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Atvienot"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistēma"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Multivides izeja"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Notiek ierīču meklēšana..."
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Ierīces"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-mn-rMN/strings.xml"
+                qualifiers="mn-rMN" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Салгах"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Төхөөрөмжтэй холбох"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Систем"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Төхөөрөмжүүдийг хайж байна…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Төхөөрөмжүүд"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Медиа гаралт"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ms-rMY/strings.xml"
+                qualifiers="ms-rMY" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Mencari peranti..."
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Output media"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Peranti"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistem"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Putuskan sambungan"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Sambung kepada peranti"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-nb/strings.xml"
+                qualifiers="nb" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medieutgang"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Enheter"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Koble til enheten"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Søker etter enheter …"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Koble fra"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-nl/strings.xml"
+                qualifiers="nl" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Zoeken naar apparaten…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Apparaten"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Media-uitvoer"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Verbinding maken met apparaat"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Systeem"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Verbinding verbreken"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-pl/strings.xml"
+                qualifiers="pl" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Rozłącz"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Szukam urządzeń…"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Połącz z urządzeniem"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Urządzenia"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Wyjście multimediów"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-pt/strings.xml"
+                qualifiers="pt" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Saída de mídia"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Conectar ao dispositivo"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispositivos"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Procurando dispositivos…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Desconectar"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-pt-rPT/strings.xml"
+                qualifiers="pt-rPT" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Desassociar"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispositivos"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistema"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"A pesquisar dispositivos…"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Ligar ao dispositivo"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Saída de som multimédia"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ro/strings.xml"
+                qualifiers="ro" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Conectați-vă la dispozitiv"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Dispozitive"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Se caută dispozitive..."
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistem"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Deconectați-vă"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Rezultate media"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-ru/strings.xml"
+                qualifiers="ru" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Подключение к устройству"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Отключить"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Устройства"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Поиск устройств…"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Система"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Перенаправлять поток мультимедиа"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-sk/strings.xml"
+                qualifiers="sk" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Výstup médií"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Pripojenie k zariadeniu"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Zariadenia"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Systém"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Odpojiť"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Prebieha vyhľadávanie zariadení…"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-sl/strings.xml"
+                qualifiers="sl" >
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Naprave"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Povezovanje z napravo"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Izhod za predstavnost"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Prekini povezavo"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistem"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Iskanje naprav …"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-sr/strings.xml"
+                qualifiers="sr" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Излаз медија"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Претраживање уређаја…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Прекини везу"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Повежите са уређајем"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Систем"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Уређаји"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-sv/strings.xml"
+                qualifiers="sv" >
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Koppla från"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Söker efter enheter ..."
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Anslut till enhet"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medieuppspelning"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Enheter"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-sw/strings.xml"
+                qualifiers="sw" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Inatafuta vifaa..."
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Tenganisha"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Unganisha kwenye kifaa"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Mfumo"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Vifaa"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Towe la vyombo vya habari"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-th/strings.xml"
+                qualifiers="th" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"ระบบ"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"เชื่อมต่อกับอุปกรณ์"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"อุปกรณ์"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"กำลังค้นหาอุปกรณ์…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"ยกเลิกการเชื่อมต่อ"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"เอาต์พุตสื่อ"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-tl/strings.xml"
+                qualifiers="tl" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Naghahanap ng mga device…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Idiskonekta"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Mga Device"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Kumonekta sa device"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"System"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Output ng media"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-tr/strings.xml"
+                qualifiers="tr" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Medya çıkışı"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Bağlantıyı kes"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Sistem"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Cihaz arayın…"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Cihaza bağlanın"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Cihazlar"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-uk/strings.xml"
+                qualifiers="uk" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Під’єднатися до пристрою"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Пристрої"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Вивід медіа-даних"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Пошук пристроїв…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Від’єднатися"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Система"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-vi/strings.xml"
+                qualifiers="vi" >
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Đang tìm kiếm thiết bị…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Ngắt kết nối"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Thiết bị"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Hệ thống"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Đầu ra phương tiện"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Kết nối với thiết bị"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-zh-rCN/strings.xml"
+                qualifiers="zh-rCN" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"连接到设备"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"正在搜索设备…"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"系统"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"断开连接"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"媒体输出线路"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"设备"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-zh-rHK/strings.xml"
+                qualifiers="zh-rHK" >
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"系統"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"裝置"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"連線至裝置"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"媒體輸出"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"正在搜尋裝置…"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"中斷連線"
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-zh-rTW/strings.xml"
+                qualifiers="zh-rTW" >
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"媒體輸出"
+                </string>
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"連線至裝置"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"中斷連線"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"系統"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"裝置"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"正在搜尋裝置..."
+                </string>
+            </file>
+            <file
+                path="/Users/grishka/Documents/android/VK/mediarouter/res/values-zu/strings.xml"
+                qualifiers="zu" >
+                <string
+                    name="mr_media_route_chooser_title"
+                    msgid="7106830097177242655" >"Xhumeka kudivayisi"
+                </string>
+                <string
+                    name="mr_media_route_button_content_description"
+                    msgid="4271159405637008602" >"Okukhiphayo kwabezindaba"
+                </string>
+                <string
+                    name="mr_system_route_name"
+                    msgid="5441529851481176817" >"Isistimu"
+                </string>
+                <string
+                    name="mr_media_route_controller_disconnect"
+                    msgid="109793632378378069" >"Nqamula"
+                </string>
+                <string
+                    name="mr_media_route_chooser_searching"
+                    msgid="7553005460920830010" >"Iseshela amadivayisi…"
+                </string>
+                <string
+                    name="mr_user_route_category_name"
+                    msgid="7498112907524977311" >"Amadivayisi"
+                </string>
+            </file>
+        </source>
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/build/generated/res/rs/debug" />
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/grishka/Documents/android/VK/mediarouter/src/debug/res" />
+    </dataSet>
+
+</merger>
